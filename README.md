@@ -1,7 +1,7 @@
 <!-- header -->
 # Formulario hecho con Sass
 
-Fomrulario de Incio simple hecho con Sass
+Formulario de Inicio simple hecho con Sass
 
 ---
 
